@@ -1,0 +1,30 @@
+Pruebas de la calculadora
+
+funcionamiento de los input:
+funciona correctamente, toma solo numeros tanto negativos como positivos y decimales
+
+prueba de las operacion suma:
+la operacion de suma funciona satisfactoriamente.
+
+prueba de las operacion resta:
+la operacion de resta funciona satisfactoriamente.
+
+prueba de las operacion Multiplicacion:
+la operacion de multiplicacion funciona satisfactoriamente.
+
+prueba de las operacion Division:
+la operacion de division funciona satisfactoriamente.
+
+prueba de las operacion Modulo:
+la operacion de modulo funciona satisfactoriamente.
+
+verificacion de las indicaciones del sitio:
+Las indicacion del sitio son entendibles y con estas se puede saber correctamente como realizar cada operacion.
+
+verificacion del resultado:
+El resultado de cada operacion se ve claramente y es correcto.
+
+Verficado por Jorge Valencia lopez
+Desarrollado por Santiago Sanchez Luna
+
+
